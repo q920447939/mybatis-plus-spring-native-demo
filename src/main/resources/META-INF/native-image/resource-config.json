@@ -1,0 +1,15 @@
+{
+  "resources": {
+    "includes": [
+      {
+        "pattern": "\\Qmessages\/messages.properties\\E"
+      },
+      {
+        "pattern": "\\Qmessages\/messages_en.properties\\E"
+      },
+      {
+        "pattern": "\\Qmessages\/messages_zh_CN.properties\\E"
+      }
+    ]
+  }
+}
